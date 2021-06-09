@@ -3,3 +3,5 @@ Creating the game snake, which then will be used as a basis to implement a neura
 
 after getting everything running I completely forgot to deal with the global vairables and put them into a class init
 single character variables are the worst idea ever, as proven in the snake file.
+
+at present the snake can only see one square in any direction, but that can be increased relatively easily
